@@ -24,7 +24,7 @@ namespace WindowsFormsApp1
         /// <param name="e"></param>
         private void ActionButton_Click(object sender, EventArgs e)
         {
-            this.MessageLabel.Text = "クリックされました?";
+            this.MessageLabel.Text = "クリックされました";
 
         }
 
